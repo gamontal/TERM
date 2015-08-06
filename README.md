@@ -1,2 +1,3 @@
-# TERM
-Could be better. Did this for fun.
+#A Pen created at CodePen.io. 
+
+You can find this one at http://codepen.io/gmontalvo/pen/LVMZMG.
