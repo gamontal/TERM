@@ -82,6 +82,22 @@ $(document).enterKey(function () {
     }
 });
   
+//  backspace event 
+$('html').on('keydown' , function(event) {
+
+        if(! $(event.target).is('p')) {
+            console.log(event.which);
+           //event.preventDefault();
+           if(event.which == 8) {
+            $("p").text(" ");
+         }
+     }
+});
+  
+  
+  
+  
+  
 (function( $ ){
   $.fn.cmdError = function() {
 
