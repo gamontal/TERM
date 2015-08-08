@@ -1,4 +1,4 @@
-#A Pen created at CodePen.io. 
+#TERM 
 
 You can find this one at http://codepen.io/gmontalvo/pen/LVMZMG.
 
