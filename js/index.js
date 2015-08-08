@@ -94,10 +94,6 @@ $('html').on('keydown' , function(event) {
      }
 });
   
-  
-  
-  
-  
 (function( $ ){
   $.fn.cmdError = function() {
 
